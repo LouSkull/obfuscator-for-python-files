@@ -6,6 +6,7 @@ os.system("color 2")
 
 print(
 """
+SUPPORT - https://www.donationalerts.com/r/beendersupport
        _ _   _           _                             ___                  _____ _          _ _ 
       (_) | | |         | |                           / / |                / ____| |        | | |
   __ _ _| |_| |__  _   _| |__   ___ ___  _ __ ___    / /| |     ___  _   _| (___ | | ___   _| | |
