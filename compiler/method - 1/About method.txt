@@ -1,1 +1,0 @@
-usage - python main.py your_script.py
